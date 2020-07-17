@@ -1,3 +1,0 @@
-public void manager(){
-  System.out.println("hello word");
-}
